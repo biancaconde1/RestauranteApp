@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppRestaurante</string>
+    <string name="add_item">Agregar plato</string>
+</resources>
