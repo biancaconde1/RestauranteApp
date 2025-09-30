@@ -1,5 +1,33 @@
 <resources>
-    <string name="app_name">AppRestaurante</string>
-    <string name="add_item">Agregar plato</string>
-    <string name="add_dish" />
+    <string name="app_name">Delicias Variadas Menu</string>
+    <string name="add_dish">Agregar Plato</string>
+
+    <!-- Categorías -->
+    <string name="category_starters">Entradas</string>
+    <string name="category_mains">Platos principales</string>
+    <string name="category_desserts">Postres</string>
+
+    <!-- Entradas -->
+    <string-array name="starters">
+        <item>Papas fritas</item>
+        <item>Aros de cebolla</item>
+        <item>Langostinos</item>
+        <item>Empanadas</item>
+        <item>Ensalada César</item>
+    </string-array>
+
+    <!-- Platos principales (AJUSTADOS para coincidir con MainActivity) -->
+    <string-array name="mains">
+        <item>Carne (cerdo, vaca)</item>
+        <item>Cazuela de mariscos</item>
+        <item>Salmón</item>
+    </string-array>
+
+    <!-- Postres -->
+    <string-array name="desserts">
+        <item>Tiramisú</item>
+        <item>Cheesecake</item>
+        <item>Helado</item>
+        <item>Brownie</item>
+    </string-array>
 </resources>

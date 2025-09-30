@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-debug-28:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-main-30:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-debug-28:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-debug-28:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-main-30:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.apprestaurante.app-debug-28:/layout_activity_main.xml.flat",
+        "source": "com.example.apprestaurante.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-debug-28:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-main-30:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-debug-28:\\drawable_cesar.png.flat",
+        "source": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-main-30:\\drawable\\cesar.png"
+    },
+    {
+        "merged": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-debug-28:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-main-30:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-debug-28:\\drawable_papas.png.flat",
+        "source": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-main-30:\\drawable\\papas.png"
+    },
+    {
+        "merged": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-debug-28:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-main-30:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-debug-28:\\drawable_langostinos.png.flat",
+        "source": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-main-30:\\drawable\\langostinos.png"
+    },
+    {
+        "merged": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-debug-28:\\drawable_carne.png.flat",
+        "source": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-main-30:\\drawable\\carne.png"
+    },
+    {
+        "merged": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-debug-28:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-main-30:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-debug-28:\\drawable_cheesecake.png.flat",
+        "source": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-main-30:\\drawable\\cheesecake.png"
+    },
+    {
+        "merged": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-debug-28:\\drawable_aros.png.flat",
+        "source": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-main-30:\\drawable\\aros.png"
+    },
+    {
+        "merged": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-debug-28:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-main-30:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-debug-28:\\drawable_salmon.png.flat",
+        "source": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-main-30:\\drawable\\salmon.png"
+    },
+    {
+        "merged": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-debug-28:\\drawable_empanadas.png.flat",
+        "source": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-main-30:\\drawable\\empanadas.png"
+    },
+    {
+        "merged": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-debug-28:\\drawable_brownie.png.flat",
+        "source": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-main-30:\\drawable\\brownie.png"
+    },
+    {
+        "merged": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-debug-28:\\drawable_tiramisu.png.flat",
+        "source": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-main-30:\\drawable\\tiramisu.png"
+    },
+    {
+        "merged": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-debug-28:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-main-30:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-debug-28:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-main-30:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-debug-28:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-main-30:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-debug-28:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-debug-28:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-main-30:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-debug-28:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-main-30:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-debug-28:\\drawable_helado.png.flat",
+        "source": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-main-30:\\drawable\\helado.png"
+    },
+    {
+        "merged": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-debug-28:\\drawable_cazuela.png.flat",
+        "source": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-main-30:\\drawable\\cazuela.png"
+    },
+    {
+        "merged": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-debug-28:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bianc\\.gradle\\daemon\\9.0-milestone-1\\com.example.apprestaurante.app-main-30:\\mipmap-hdpi\\ic_launcher.webp"
+    }
+]

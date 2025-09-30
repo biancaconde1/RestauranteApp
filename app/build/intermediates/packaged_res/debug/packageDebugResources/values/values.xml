@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="desserts">
+        <item>Tiramisú</item>
+        <item>Cheesecake</item>
+        <item>Helado</item>
+        <item>Brownie</item>
+    </string-array>
+    <string-array name="mains">
+        <item>Carne (cerdo, vaca)</item>
+        <item>Cazuela de mariscos</item>
+        <item>Salmón</item>
+    </string-array>
+    <string-array name="starters">
+        <item>Papas fritas</item>
+        <item>Aros de cebolla</item>
+        <item>Langostinos</item>
+        <item>Empanadas</item>
+        <item>Ensalada César</item>
+    </string-array>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="padding_16">16dp</dimen>
+    <string name="add_dish">Agregar Plato</string>
+    <string name="app_name">Delicias Variadas Menu</string>
+    <string name="category_desserts">Postres</string>
+    <string name="category_mains">Platos principales</string>
+    <string name="category_starters">Entradas</string>
+    <style name="Theme.AppRestaurante" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+</resources>
